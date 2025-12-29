@@ -27,7 +27,7 @@
 
 - Выйти из скрина - `CTRL + A + D`
 - Войти обратно в скрин - `screen -r easydonate-bot`
+- ![photo_2025-12-29_13-58-16](https://github.com/user-attachments/assets/0b28c7a4-e7c5-447d-8020-c437c28cfce7)
 - ![photo_2025-12-29_12-59-08](https://github.com/user-attachments/assets/174f19e9-338d-4a12-bf78-e137ab2bbcd7)
-- ![photo_2025-12-29_13-57-35](https://github.com/user-attachments/assets/07b8f190-37d0-4228-bc4e-4fa364d10c3b)
-- ![photo_2025-12-29_13-57-56](https://github.com/user-attachments/assets/9a0eafd3-e215-4d00-86a3-bafb6d844a59)
-![photo_2025-12-29_13-58-16](https://github.com/user-attachments/assets/0b28c7a4-e7c5-447d-8020-c437c28cfce7)
+![photo_2025-12-29_13-57-35](https://github.com/user-attachments/assets/07b8f190-37d0-4228-bc4e-4fa364d10c3b)
+![photo_2025-12-29_13-57-56](https://github.com/user-attachments/assets/9a0eafd3-e215-4d00-86a3-bafb6d844a59)
