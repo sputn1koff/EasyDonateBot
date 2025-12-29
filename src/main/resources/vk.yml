@@ -1,0 +1,32 @@
+enabled: true
+
+vk:
+  group-id: 0
+  token: "PUT_VK_GROUP_TOKEN_HERE"
+  # Если пусто/не указано — рассылка уйдёт всем, кто писал в ЛС сообщества
+  admin-user-ids: []
+
+longpoll:
+  wait-sec: 25 # необходимо включить в группе long poll api!!! и указать версию 5.199 (если стоит другая) - не забудьте разрешить типы событий в long pool
+
+polling:
+  interval-ms: 3000
+  last-payments-limit: 50 # лимит без понятия - самое оптимальное
+
+storage:
+  recipients-file: "data/recipients/vk.json"
+  state-file: "data/state/last-payment.json"
+
+easydonate:
+  shop-key: "PUT_EASYDONATE_SHOP_KEY_HERE"
+
+ui:
+  button-last-payments: "🧾 Последние покупки"
+  title-new-payment: "🛒 Новая покупка"
+  title-last-payments: "🧾 Последние покупки"
+
+messages:
+  start: |
+    Привет! Я бот уведомлений EasyDonate.
+    Нажми кнопку «Последние покупки».
+  no-payments: "Покупок пока нет."
